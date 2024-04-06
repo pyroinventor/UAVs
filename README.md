@@ -20,8 +20,13 @@ Motor Upgrade
 ![0422180803a](https://github.com/pyroinventor/UAVs/assets/77114423/69d8f203-8c58-4cd8-af86-aadb1606ef91) 
 ![IMG_20180512_165746](https://github.com/pyroinventor/UAVs/assets/77114423/0ad55c6c-3cc9-4cf4-9b5b-3dfd5fb53228)
 
-## Albatross
+## Albatross VI
 After flying my drone into the ground every other flight got too expensive, I used one of its motors for a smaller, foam board based plane nicknamed Albatross:
+
+![IMG_20180529_133235](https://github.com/pyroinventor/UAVs/assets/77114423/5c88ee1f-d16c-4f08-bf92-c59d0980574b)
+
+## Albatross VII
+Here is a similar, but better executed version of Albatross:
 
 ![IMG_20180902_194411](https://github.com/pyroinventor/UAVs/assets/77114423/6fcf2000-97f9-498c-9253-c5036e4b13e3)
 
